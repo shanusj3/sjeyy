@@ -1,8 +1,8 @@
 
 const ProductCard = ({ product }) => {
     return (
-        <div>
-            <h1>{product.title}</h1>
+        <div className=" w-full  bg-slate-400">
+            <img src={product.img} alt="" />
         </div>
     )
 }

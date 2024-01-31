@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <nav className=" container px-2 sm:px-6 lg:px-8 mx-auto py-8 p-6 flex justify-between items-center flex-col md:flex-row">
             <span className="flex justify-between items-center w-full md:w-auto ">
-                <h1 className="text-gray-500 text-xl md:text-4xl sm:text-2xl font-bold md:mb-2">sje<span className="text-[#673AB8]">yy</span></h1>
+                <h1 className="text-gray-500 text-xl md:text-4xl sm:text-2xl font-bold md:mb-2">sje<span className="text-[#673AB8]">y</span>y</h1>
                 <span className="md:hidden" >
                     <IoIosMenu />
                 </span>

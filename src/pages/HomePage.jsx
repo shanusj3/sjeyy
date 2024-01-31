@@ -5,7 +5,7 @@ const HomePage = () => {
     return (
         <div>
             <HeroSection />
-            <Products />
+
         </div>
     )
 }
